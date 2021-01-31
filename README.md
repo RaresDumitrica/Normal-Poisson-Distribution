@@ -1,5 +1,7 @@
 # mmcs-final- Central Limit Theorem  and Poisson Distribution
 
+## Intructions:
+
 ## Project setup
 ```
 npm install
