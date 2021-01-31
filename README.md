@@ -3,14 +3,18 @@
 ## Intructions:
 
 ## Project setup
+Se cloneaza repository-ul sau se downloadeaza si se dezarhiveaza.
+Se deschide un terminal in fisierul proaspat clonat.
+Se introduce comanda:
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rularea proiectului:
+Se introduce in terminal comnanda:
 ```
 npm run serve
 ```
 ### Where to
-  The whole math behind the project can be found in the **src/components/HelloWorld.vue (for CLT)** 
- and the **src/components/Poisson.Vue (for Poisson in 2 ways)**; 
+  Toata logica matematica se gaseste in fisierele **src/components/HelloWorld.vue (pentru generarea Normalei cu TLC)** 
+ si **src/components/Poisson.Vue (pentru distributia Poisson in 2 moduri)**; 
