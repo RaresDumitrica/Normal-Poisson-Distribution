@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# mmcs-final
+# mmcs-final- Central Limit Theorem  and Poisson Distribution
 
 ## Project setup
 ```
@@ -11,18 +10,4 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-# Normal-Poisson-Distribution
->>>>>>> 79d927d35dc9633048e764f023beb4273937d1bb
+## The whole math behind the project can be found in the # src/components/HelloWorld.vue (for CLT) and the # src/components/Poisson.Vue (for Poisson in 2 ways);
